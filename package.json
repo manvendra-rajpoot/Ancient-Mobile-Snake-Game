@@ -1,0 +1,24 @@
+{
+    "name": "mobile_snake_game",
+    "version": "1.0.0",
+    "description": "This is minor project under \"Intro to Game Devlopments\"",
+    "main": "snakeGame.js",
+    "scripts": {
+        "start": "npm run lite",
+        "test": "echo \"Error: no test specified\" && exit 1",
+        "lite": "lite-server"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/manvendra264/Ancient-Mobile-Snake-Game.git"
+    },
+    "author": "Manvendra Rajpoot",
+    "license": "ISC",
+    "bugs": {
+        "url": "https://github.com/manvendra264/Ancient-Mobile-Snake-Game/issues"
+    },
+    "homepage": "https://github.com/manvendra264/Ancient-Mobile-Snake-Game#readme",
+    "devDependencies": {
+        "lite-server": "^2.5.4"
+    }
+}
